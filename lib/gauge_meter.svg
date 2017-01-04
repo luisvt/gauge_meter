@@ -1,0 +1,25 @@
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 365 194.86" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata8">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g fill="none">
+  <path id="outline" stroke="#f1f1f1" stroke-width="65" d="m32.5 185.22a150 152.72 0 0 1 150 -152.72 150 152.72 0 0 1 150 152.72"/>
+  <g stroke-width="60">
+   <path id="low" stroke="#f7f7c7" d="m32.5 182.5a150 150 0 0 1 75 -129.9"/>
+   <path id="avg" d="m99.3-66.8a150 150 0 0 1 75 -129.9" transform="rotate(60.001)" stroke="#71fefc"/>
+   <path transform="rotate(120)" stroke="#f83d3e" d="m-83.2-249.3a150 150 0 0 1 75 -129.9"/>
+  </g>
+  <path id="mask" stroke="#f1f1f1" stroke-width="65" d="m332.29 177.23a150 152.72 0 0 1 0.21 7.99"/>
+ </g>
+ <g id="needle">
+  <circle id="circle4490" cx="181.58" transform="rotate(90.256)" cy="-183.42" r="12.355" fill="#ccc"/>
+  <path id="path4496" d="m161.04 43.882c19.64-0.289 112.48 155.19 102.91 172.35-9.57 17.15-190.64 19.82-200.71 2.95s78.16-175.01 97.8-175.3z" transform="matrix(-.00038366 .076002 -.62112 -.0031355 325.7 170.85)" fill="#ccc"/>
+  <circle id="path4492" transform="rotate(90.256)" cy="-183.42" cx="181.58" r="3.4083"/>
+ </g>
+</svg>
